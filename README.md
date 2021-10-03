@@ -1,23 +1,20 @@
 # 🤠 Howdy! I'm Brandon!
----
 
-**I'm have a passion for discovery and creating new things. I love learning new technologies and making ideas come to life.**
+I keep myself busy with a few things:
+- Leading a large group and facilitating their needs for success
+- Writing blog posts on [Medium](https://brandonblankenstein.medium.com/)
+- Learning Full Stack Web Development with [Devslopes](https://devslopes.com/)
+- Working with [Devslopes](https://devslopes.com/about-our-company) as a Web Developer and in the [Devslopes 30 Day JavaScript Challenge](https://30daycodechallenge.com/) as a Code Coach
 
-  I keep myself busy with a few things:
-  - Leading a large group and facilitating their needs for success
-  - Writing blog posts on [Medium](https://brandonblankenstein.medium.com/)
-  - Learning Full Stack Web Development with [Devslopes](https://devslopes.com/)
-  - Working with [Devslopes](https://devslopes.com/about-our-company) as a Web Developer and in the [Devslopes 30 Day JavaScript Challenge](https://30daycodechallenge.com/) as a Code Coach
-
-  <details>
-    <summary>Some Things I Love ❤️‍🔥</summary>
-    <ul>
-      <li>Music</li>
-      <li>Teaching</li>
-      <li>Strongman/Powerlifting</li>
-      <li>Disney</li>
-    </ul>
-  </details>
+<details>
+  <summary>Some Things I Love ❤️‍🔥</summary>
+  <ul>
+    <li>Music</li>
+    <li>Teaching</li>
+    <li>Strongman/Powerlifting</li>
+    <li>Disney</li>
+  </ul>
+</details>
     
 ## Languages & Tools
 ### Front End
