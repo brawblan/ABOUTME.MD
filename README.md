@@ -2,7 +2,6 @@
 
 I keep myself busy with a few things:
 - Building the next big app that will revolutionize the fitness/nutrition industry
-- Leading a large group and facilitating their needs for success
 - Writing blog posts on [Medium](https://brandonblankenstein.medium.com/)
 - Learning Full Stack Web Development with [Devslopes](https://devslopes.com/)
 - Working with [Devslopes](https://devslopes.com/about-our-company) as a Web Developer and in the [Devslopes 30 Day JavaScript Challenge](https://30daycodechallenge.com/) as a Code Coach
