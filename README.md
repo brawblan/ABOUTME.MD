@@ -1,36 +1,51 @@
-# 🤠 Howdy! I'm Brandon!
+<h1>
+    <div>
+        Howdy! 🤠
+    </div>
+    <div>
+        I'm Brandon Blankenstein!
+    </div>
+</h1>
 
-I keep myself busy with a few things:
-- my day job with Humana as a Software Engineer 2
-- Building websites and applications
-- Learning Software Engineering and Computer Science on my own!
-    
-## Technologies & Tools
-### Languages
-![TypeScript](https://camo.githubusercontent.com/6cf9abe9d706421df40ff4feff208a5728df2b77f9eb21f24d09df00a0d69203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
-![JavaScript](https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145)
-![HTML5](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-![CSS3](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
+<h2>Frontend Software Engineer</h2>
 
-### Front End
-![LIT](https://img.shields.io/badge/lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)
-![ReactJS](https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![VueJS](https://camo.githubusercontent.com/50d43af9b68ef63015963f40aac894898d7c655ed221f0bce5013787a68aba26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d3335343935453f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d344643303844)
-![SASS](https://camo.githubusercontent.com/8849f369ac031cc842a4ab4248c7f7db6a4b593cad1f2d1c01d3aeb6f0f8dca7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d7768697465)
-![TailWindCSS](https://camo.githubusercontent.com/e9b080a6541e5355827ea91b6a0302cbbc54af4705b0c6b0f1561a0957ced2fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465)
-![GraphQL](https://camo.githubusercontent.com/1c935f97f2c23496e933634923b8a00e82a3421cd78b753972d739fea8675ea6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666c61742d737175617265266c6f676f3d6772617068716c)
-![Tanstack Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white)
+<div>
+    <h3>Software Engineer II at Humana</h3>
+    <h4>I keep myself busy with a few things:</h4>
+    <ul>
+        <li>
+            hanging out with my wife and son!
+        </li>
+        <li>
+            my day job with Humana as a Software Engineer II
+        </li>
+        <li>
+            learning Software Engineering and Computer Science on my own!
+        </li>
+    </ul>
+</div>
+ 
+<div> 
+  <a href="mailto:brandon.blankenstein@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/brandon-blankenstein/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+ 
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-### Back End & Automation
-![NodeJS](https://camo.githubusercontent.com/a1eae878fdd3d1c1b687992ca74e5cac85f4b68e60a6efaa7bc8dc9883b71229/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465)
-![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Netlify](https://camo.githubusercontent.com/92dde1e7c42c013a5fce4dfeee0843f06710bfd38a610885e33a273c7eca0d22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65746c6966792d3030433742373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465)
-![Vercel](https://camo.githubusercontent.com/fcd1c87e77465b77d8154ec711dd65b26f942dceb3be799ea6a621c291982753/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://camo.githubusercontent.com/fc526d282c83d943ec33f79b51fe82678fee0f49cc8421a93dddcea37da58bb8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d417a7572652532304465764f70732d3030373844373f7374796c653d666f722d7468652d6261646765266c6f676f3d417a7572654465764f7073)
+<div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=lit,vue,react,nextjs,tailwind,sass,nodejs,express" />
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=npm,git,github,vscode,azure" />
+    </div>
+</div>
 
-### Misc
-![NPM](https://camo.githubusercontent.com/55037e0ff8e2c9df84ad631c3d0443a7316776ede7459a5872ccb336d7df2781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)
-![GIT](https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+</div>
