@@ -7,20 +7,20 @@
     </div>
 </h1>
 
-<h2>Frontend Software Engineer</h2>
+<h2>Software Engineer</h2>
 
 <div>
-    <h3>Software Engineer II at Humana</h3>
+    <h3>Front End Engineer at Vernier Science Education</h3>
     <h4>I keep myself busy with a few things:</h4>
     <ul>
+        <li>
+            building community in my church
+        </li>
         <li>
             hanging out with my wife and son!
         </li>
         <li>
-            my day job with Humana as a Software Engineer II
-        </li>
-        <li>
-            learning Software Engineering and Computer Science on my own!
+            exploring the vast world of computer science
         </li>
     </ul>
 </div>
